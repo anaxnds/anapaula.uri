@@ -1,4 +1,6 @@
-        valor = int(input())
+       	#!usr//bin/env python
+       	# --coding: utf-8 --
+        int(input())
 	ano = int(valor / 365)
 	mes = int((valor%365/30))
 	dia = int(valor%365%30)
