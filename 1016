@@ -1,3 +1,5 @@
-  vl = int(input())
-	tempo = vl*2
-	print("{:d} minutos".format(tempo))
+  #!/usr/bin/env python
+  # -- coding: utf-8 --
+  a= vl = int(input())
+  r= tempo = vl*2
+  print("{:d} minutos".format(tempo))
